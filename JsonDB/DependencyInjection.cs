@@ -6,7 +6,7 @@ namespace JsonDB
 {
     public static class DependencyInjection
     {
-        public static IServiceCollection AddJsonDBPackage(this IServiceCollection services)
+        public static IServiceCollection AddJsonDB(this IServiceCollection services)
         {
             services.AddScoped<EntityService>();
 
