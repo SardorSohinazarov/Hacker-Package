@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TelegramBotPackage\TelegramBotPackage.csproj" />
+    <ProjectReference Include="..\JsonDB\JsonDB.csproj" />
   </ItemGroup>
 
 </Project>
