@@ -6,6 +6,8 @@ namespace JsonDB
     {
         public static IServiceCollection AddJsonDBPackage(this IServiceCollection services)
         {
+            services.AddScoped<EntityService>();
+
             return services;
         }
     }
