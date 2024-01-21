@@ -4,6 +4,10 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	<PackageId>JsonDB</PackageId>
+	<Version>1.0.0</Version>
+	<Author>Sardor Sohinazarov</Author>
+	<Product>sardorsohinazarov.uz</Product>
   </PropertyGroup>
 
 	<ItemGroup>
